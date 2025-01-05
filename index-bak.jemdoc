@@ -3,7 +3,7 @@
 # jemdoc: addcss{jemdoc.css}
 # jemdoc: addcss{bibtex.css}
 
-= Shaoning Han
+= Le Yang
 ~~~
 {}{img_left}{image.jpg}{Image}{350}
 Ph.D. Student\n
@@ -13,10 +13,9 @@ Ph.D. Student\n
 ~~~
 
 == Biography
-Shaoning is currently a 4th year Ph.D. student under the supervision of Professor [https://sites.google.com/usc.edu/gomez/ Andr{{&eacute;}}s G{{&oacute;}}mez]. Shaoning received his B.S in Mathematics from [http://math.ustc.edu.cn/ENGLISH/list.htm University of Science and Technology of China (USTC)]. He is expected to obtain his Ph.D. in Industrial Engineering in 2022. Shaoning's research is focused on  nonlinear optimization  and mixed-integer programming.
-
+Le is a Research Fellow in the Department of Electrical and Computer Engineering (ECE) at National University of Singapore, advised by Prof. Vincent Y. F. Tan and Prof. Wang Chi Cheung. Her research interests include Multi-Armed Bandit, Simulation and Optimization, and Reinforcement Learning.
 == Contact
-*Email*: shaoning@usc.edu\n
+*Email*: le_yang@nus.edu.sg\n
 *Web*: [https://shaoninghan.github.io]\n 
 *Office*: 340 Olin Hall, 3650 McClintock Avenue, Los Angeles, CA 90089
 
